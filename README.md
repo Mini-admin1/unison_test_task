@@ -13,5 +13,13 @@
 После обрабоки всех данных выводится краткая статистика по сгруппированным данным 
 
 
-
+Статистика по сгруппированным данным
 ![image](https://github.com/user-attachments/assets/6101f667-0c90-454d-a897-1f9ced42d187)
+
+
+Вывод агрегированных данных
+![image](https://github.com/user-attachments/assets/82fd1896-fbf7-4246-8a3b-827a895f357d)
+
+
+Эмуляция пакетного потока данных данных
+![image](https://github.com/user-attachments/assets/008ac3de-df09-4b2a-9592-ad4019ec8885)
